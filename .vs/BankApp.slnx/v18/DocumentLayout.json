@@ -5,6 +5,10 @@
     {
       "AbsoluteMoniker": "D:0:0:{3B68BC68-DF07-8170-1ACB-06DB8DF3DF6C}|BankApp.Domain\\BankApp.Domain.csproj|c:\\users\\simon\\documents\\projeto\\c#\\bankapp\\bankapp.domain\\entities\\account.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3B68BC68-DF07-8170-1ACB-06DB8DF3DF6C}|BankApp.Domain\\BankApp.Domain.csproj|solutionrelative:bankapp.domain\\entities\\account.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B68BC68-DF07-8170-1ACB-06DB8DF3DF6C}|BankApp.Domain\\BankApp.Domain.csproj|c:\\users\\simon\\documents\\projeto\\c#\\bankapp\\bankapp.domain\\exception\\domainexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B68BC68-DF07-8170-1ACB-06DB8DF3DF6C}|BankApp.Domain\\BankApp.Domain.csproj|solutionrelative:bankapp.domain\\exception\\domainexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -24,11 +28,15 @@
         },
         {
           "DockedWidth": 1062,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Bookmark",
-              "Name": "ST:1:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
             },
             {
               "$type": "Document",
@@ -38,18 +46,22 @@
               "RelativeDocumentMoniker": "BankApp.Domain\\Entities\\Account.cs",
               "ToolTip": "C:\\Users\\Simon\\Documents\\Projeto\\C#\\BankApp\\BankApp.Domain\\Entities\\Account.cs",
               "RelativeToolTip": "BankApp.Domain\\Entities\\Account.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAEAAAAAAAAAA==",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAYwBYAAAAYAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-09-27T16:00:13.128Z",
+              "WhenOpened": "2026-09-29T15:27:50.295Z",
               "EditorCaption": ""
             },
             {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DomainException.cs",
+              "DocumentMoniker": "C:\\Users\\Simon\\Documents\\Projeto\\C#\\BankApp\\BankApp.Domain\\Exception\\DomainException.cs",
+              "RelativeDocumentMoniker": "BankApp.Domain\\Exception\\DomainException.cs",
+              "ToolTip": "C:\\Users\\Simon\\Documents\\Projeto\\C#\\BankApp\\BankApp.Domain\\Exception\\DomainException.cs",
+              "RelativeToolTip": "BankApp.Domain\\Exception\\DomainException.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-29T17:56:29.749Z"
             }
           ]
         }
